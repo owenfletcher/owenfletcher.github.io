@@ -133,12 +133,6 @@ $desc = !isset($page_meta->desc) || strlen($page_meta->desc) == 0 ? $config->sit
                 </a>
             <?php } ?>
 
-            <?php if (isset($config->twitter_url) && strlen($config->twitter_url) > 0) { ?>
-                <a href="<?= $config->twitter_url ?>" target="_blank" rel="nofollow noreferrer" title="on X / Twitter">
-                    <img src="/assets/images/x-icon.svg"  alt="X / Twitter Icon"/>
-                </a>
-            <?php } ?>
-
             <?php if (isset($config->github_url) && strlen($config->github_url) > 0) { ?>
                 <a href="<?= $config->github_url ?>" target="_blank" rel="nofollow noreferrer" title="on GitHub">
                     <img src="/assets/images/github-icon.svg" alt="GitHub icon" />
