@@ -1,8 +1,8 @@
 {
-  "site_top_h1": "Owen's Site",
-  "site_top_about_line1": "Simple PHP-based Static Site generator",
-  "site_top_about_line2": "Supports Markdown and deployed to GitHub Pages by GitHub Actions",
-  "email": "local-address@your-domain.com",
+  "site_top_h1": "GoToGuy Premium Service",
+  "site_top_about_line1": "Irish national providing advice on all things Ireland",
+  "site_top_about_line2": "Note: <strong>CASH ONLY</strong> service",
+  "email": "owenfletcher@gmail.com",
   "full_title": "Owen's Site - a Simple PHP-based SSG for GitHub Pages",
   "appended_title": " - Ata's SSG",
   "site_desc": "Welcome to Owen's Site. This is a simple PHP-based Static Site Generator that supports Markdown and deployed to GitHub Pages by GitHub Actions.",
